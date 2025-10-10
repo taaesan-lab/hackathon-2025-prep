@@ -9,7 +9,7 @@ import os
 
 # --- Configuration ---
 NUMBER_OF_INVOICES = 100
-OUTPUT_FOLDER = "./output/01-resume"
+OUTPUT_FOLDER = "./output/01-invoices/"
 
 # Our Company Information
 OUR_COMPANY_NAME = "Global Tech Services Inc."

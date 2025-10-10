@@ -1,15 +1,17 @@
 import os
 import random
 import re
+import json # <--- ADDED: Import the json library
 from datetime import datetime, timedelta
 from faker import Faker
 from PIL import Image, ImageDraw, ImageFont
 import pydenticon
-import hashlib # <<< FIX 1: ADD THIS IMPORT
+import hashlib
+from io import BytesIO
 
 # --- CONFIGURATION ---
 NUMBER_OF_IMAGES = 100
-OUTPUT_FOLDER = "realistic_passport_images"
+OUTPUT_FOLDER = "out/passports_realistic"
 
 # --- DATA FOR REALISM ---
 PASSPORT_FORMATS = {
@@ -90,13 +92,13 @@ def create_passport_image(data, avatar_image, file_path):
         font_bold = ImageFont.truetype("arialbd.ttf", 26)
         font_regular = ImageFont.truetype("arial.ttf", 22)
         font_label = ImageFont.truetype("arial.ttf", 16)
-        font_mrz = ImageFont.truetype("OCR-B.ttf", 36)
+        font_mrz = ImageFont.truetype("OCRB.ttf", 36) # Common OCR-B font filename
     except IOError:
         font_bold = ImageFont.load_default()
         font_regular = ImageFont.load_default()
         font_label = ImageFont.load_default()
         try:
-            font_mrz = ImageFont.truetype("cour.ttf", 36)
+            font_mrz = ImageFont.truetype("cour.ttf", 36) # Courier New as fallback
             print("OCR-B font not found. Using Courier New for MRZ.")
         except IOError:
             font_mrz = ImageFont.load_default()
@@ -109,10 +111,14 @@ def create_passport_image(data, avatar_image, file_path):
     image.paste(avatar_image, (40, 40))
 
     try:
-        watermark_font = ImageFont.truetype("arial.ttf", 100)
-        draw.text((width/2, height/2), "SPECIMEN", font=watermark_font, fill=(255, 0, 0, 128), anchor="ms")
+        # Create a separate transparent layer for the watermark
+        watermark = Image.new("RGBA", image.size)
+        watermark_draw = ImageDraw.Draw(watermark)
+        watermark_font = ImageFont.truetype("arial.ttf", 150)
+        watermark_draw.text((width/2, height/2), "SPECIMEN", font=watermark_font, fill=(255, 0, 0, 80), anchor="ms")
+        image.paste(watermark, (0, 0), watermark)
     except IOError:
-        pass
+        pass # Font not found, skip watermark
 
     fields = [
         (250, 120, "1. Surname / Nom", data['surname']),
@@ -139,8 +145,10 @@ if __name__ == "__main__":
     if not os.path.exists(OUTPUT_FOLDER):
         os.makedirs(OUTPUT_FOLDER)
         
-    # <<< FIX 2: PASS THE HASHING FUNCTION, NOT A STRING >>>
     avatar_generator = pydenticon.Generator(8, 8, digest=hashlib.sha256)
+    
+    # <--- ADDED: Initialize a dictionary to hold all ground truth data
+    all_groundtruth_data = {}
 
     for i in range(NUMBER_OF_IMAGES):
         nat_code = random.choice(list(PASSPORT_FORMATS.keys()))
@@ -172,14 +180,37 @@ if __name__ == "__main__":
 
         avatar_seed = f"{passport_data['passport_number']}-{passport_data['surname']}"
         avatar_image_bytes = avatar_generator.generate(avatar_seed, 170, 170, output_format="png")
-        from io import BytesIO
         avatar_image_pil = Image.open(BytesIO(avatar_image_bytes))
 
         file_name = f"passport_{passport_data['passport_number']}.png"
         file_path = os.path.join(OUTPUT_FOLDER, file_name)
         
         create_passport_image(passport_data, avatar_image_pil, file_path)
+
+        # <--- ADDED: Structure and store the ground truth data for this passport
+        groundtruth_entry = {
+            'passport_number': passport_data['passport_number'],
+            'surname': passport_data['surname'],
+            'given_names': passport_data['given_names'],
+            'nationality_code': passport_data['nationality'],
+            'nationality_long': passport_data['nationality_long'],
+            'sex': passport_data['sex'],
+            'date_of_birth': passport_data['date_of_birth'].isoformat(), # Convert date to string
+            'date_of_issue': passport_data['date_of_issue'].isoformat(), # Convert date to string
+            'date_of_expiry': passport_data['date_of_expiry'].isoformat(), # Convert date to string
+            'mrz_line1': passport_data['mrz_line1'],
+            'mrz_line2': passport_data['mrz_line2']
+        }
+        all_groundtruth_data[file_name] = groundtruth_entry
+        # --- END ADDED SECTION ---
         
         print(f"({i+1}/{NUMBER_OF_IMAGES}) Generated realistic passport image: {file_name}")
 
+    # <--- ADDED: Write the collected ground truth data to a single JSON file
+    groundtruth_filepath = os.path.join(OUTPUT_FOLDER, "groundtruth.json")
+    with open(groundtruth_filepath, "w") as f:
+        json.dump(all_groundtruth_data, f, indent=4)
+    # --- END ADDED SECTION ---
+
     print(f"\nGeneration complete in folder '{OUTPUT_FOLDER}'")
+    print(f"Ground truth data saved to '{groundtruth_filepath}'") # <--- ADDED: Confirmation message
