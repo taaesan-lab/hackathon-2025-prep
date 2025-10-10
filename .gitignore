@@ -1,0 +1,30 @@
+# --- Custom Folders ---
+# Ignore the local Conda environment folder
+cdg.env312/
+
+# Ignore the output folder and all its contents
+out/
+
+# --- Python / Conda ---
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# --- IDE / Editor specific files ---
+# Visual Studio Code
+.vscode/
+
+# JetBrains (PyCharm, etc.)
+.idea/
+
+# --- OS specific files ---
+# macOS
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
