@@ -1,7 +1,8 @@
 import os
 import random
 import re
-import json # <--- ADDED: Import the json library
+import json
+import sys
 from datetime import datetime, timedelta
 from faker import Faker
 from PIL import Image, ImageDraw, ImageFont
@@ -11,7 +12,13 @@ from io import BytesIO
 
 # --- CONFIGURATION ---
 NUMBER_OF_IMAGES = 100
-OUTPUT_FOLDER = "out/passports_realistic"
+OUTPUT_FOLDER = "out/01_passports_realistic"
+RESOURCES_FOLDER = "./resources/"
+# --- START: MODIFIED SECTION ---
+# Enter the filename of your chosen 1000x600 background image here
+BACKGROUND_IMAGE_FILE = "passport_background_blue.png" 
+# --- END: MODIFIED SECTION ---
+
 
 # --- DATA FOR REALISM ---
 PASSPORT_FORMATS = {
@@ -23,9 +30,8 @@ PASSPORT_FORMATS = {
 }
 
 # --- HELPER FUNCTIONS for MRZ ---
-
+# (No changes in this section)
 def calculate_checksum(s):
-    """Calculates a checksum digit for an MRZ field."""
     s = s.upper()
     weights = [7, 3, 1]
     total = 0
@@ -41,11 +47,9 @@ def calculate_checksum(s):
     return str(total % 10)
 
 def format_for_mrz(text, length):
-    """Formats text for the MRZ by truncating/padding and replacing spaces with '<'."""
     return text.upper().replace(' ', '<').ljust(length, '<')
 
 def generate_passport_number(country_code):
-    """Generates a fake passport number based on a country's format."""
     fmt = PASSPORT_FORMATS.get(country_code, 'LNNNNNNNN')
     num = []
     for char_code in fmt:
@@ -55,9 +59,7 @@ def generate_passport_number(country_code):
             num.append(str(random.randint(0, 9)))
     return "".join(num)
 
-
 def generate_mrz(data):
-    """Generates the two-line Machine-Readable Zone (MRZ)."""
     line1 = "P<" + data['nationality']
     surname_mrz = data['surname'].upper().replace(' ', '<')
     given_names_mrz = data['given_names'].upper().replace(' ', '<')
@@ -79,47 +81,54 @@ def generate_mrz(data):
     return line1, line2
 
 # --- IMAGE GENERATION ---
-def create_passport_image(data, avatar_image, file_path):
+def create_passport_image(data, avatar_image, file_path, font_paths, background_path): # <-- background_path added
     width, height = 1000, 600
-    bg_color = (240, 245, 250)
+    base_bg_color = (240, 245, 250) # A plain color for the base
     font_color = (10, 10, 10)
     label_color = (100, 100, 100)
     
-    image = Image.new('RGB', (width, height), bg_color)
-    draw = ImageDraw.Draw(image)
+    # --- START: BACKGROUND LOADING MODIFIED ---
+    # Create a plain base background
+    plain_background = Image.new('RGB', (width, height), base_bg_color)
     
     try:
-        font_bold = ImageFont.truetype("arialbd.ttf", 26)
-        font_regular = ImageFont.truetype("arial.ttf", 22)
-        font_label = ImageFont.truetype("arial.ttf", 16)
-        font_mrz = ImageFont.truetype("OCRB.ttf", 36) # Common OCR-B font filename
-    except IOError:
-        font_bold = ImageFont.load_default()
-        font_regular = ImageFont.load_default()
-        font_label = ImageFont.load_default()
-        try:
-            font_mrz = ImageFont.truetype("cour.ttf", 36) # Courier New as fallback
-            print("OCR-B font not found. Using Courier New for MRZ.")
-        except IOError:
-            font_mrz = ImageFont.load_default()
-            print("OCR-B and Courier New not found. Using default font for MRZ.")
+        # Load the complex background image
+        complex_background = Image.open(background_path).convert('RGB')
+        if complex_background.size != (width, height):
+            complex_background = complex_background.resize((width, height), Image.LANCZOS)
+        
+        # Blend the plain base with the complex background.
+        # alpha=0.6 means 60% of the complex_background and 40% of the plain_background.
+        image = Image.blend(plain_background, complex_background, alpha=0.6)
 
+    except FileNotFoundError:
+        print(f"WARNING: Background file not found at '{background_path}'. Using plain background.")
+        image = plain_background # Fallback to the plain background if file is missing
+    # --- END: BACKGROUND LOADING MODIFIED ---
+
+    draw = ImageDraw.Draw(image)
+    
+    # Load fonts
+    font_bold = ImageFont.truetype(font_paths['arial_bold'], 26)
+    font_regular = ImageFont.truetype(font_paths['arial_regular'], 22)
+    font_label = ImageFont.truetype(font_paths['arial_regular'], 16)
+    font_mrz = ImageFont.truetype(font_paths['ocr_b'], 36)
+    watermark_font = ImageFont.truetype(font_paths['arial_regular'], 150)
+
+    # Draw all text and other elements onto the blended background
     draw.text((250, 30), "REPUBLIC OF HACKATHON", fill=label_color, font=font_bold)
     draw.text((250, 65), "PASSPORT / PASSEPORT", fill=label_color, font=font_regular)
     
     draw.rectangle([30, 30, 210, 210], outline=label_color, width=2)
     image.paste(avatar_image, (40, 40))
 
-    try:
-        # Create a separate transparent layer for the watermark
-        watermark = Image.new("RGBA", image.size)
-        watermark_draw = ImageDraw.Draw(watermark)
-        watermark_font = ImageFont.truetype("arial.ttf", 150)
-        watermark_draw.text((width/2, height/2), "SPECIMEN", font=watermark_font, fill=(255, 0, 0, 80), anchor="ms")
-        image.paste(watermark, (0, 0), watermark)
-    except IOError:
-        pass # Font not found, skip watermark
+    # Watermark layer
+    watermark = Image.new("RGBA", image.size)
+    watermark_draw = ImageDraw.Draw(watermark)
+    watermark_draw.text((width/2, height/2), "SPECIMEN", font=watermark_font, fill=(255, 0, 0, 80), anchor="ms")
+    image.paste(watermark, (0, 0), watermark)
 
+    # Adjust these coordinates as needed to fit your background image
     fields = [
         (250, 120, "1. Surname / Nom", data['surname']),
         (650, 120, "2. Given Names / Prénoms", data['given_names']),
@@ -141,19 +150,33 @@ def create_passport_image(data, avatar_image, file_path):
 
 # --- MAIN SCRIPT ---
 if __name__ == "__main__":
+    font_paths = {
+        'ocr_b': os.path.join(RESOURCES_FOLDER, "OCR-B.ttf"),
+        'arial_regular': os.path.join(RESOURCES_FOLDER, "arial.ttf"),
+        'arial_bold': os.path.join(RESOURCES_FOLDER, "arialbd.ttf")
+    }
+
+    missing_fonts = [name for name, path in font_paths.items() if not os.path.exists(path)]
+    if missing_fonts:
+        print(f"ERROR: Missing required font files in '{RESOURCES_FOLDER}' directory.")
+        for name in missing_fonts:
+            print(f" - File not found: {os.path.basename(font_paths[name])}")
+        print("\nPlease ensure these fonts are in the resources folder before running.")
+        sys.exit(1)
+
+    background_image_path = os.path.join(RESOURCES_FOLDER, BACKGROUND_IMAGE_FILE) # <-- Path for background
+
     fake = Faker()
-    if not os.path.exists(OUTPUT_FOLDER):
-        os.makedirs(OUTPUT_FOLDER)
+    os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+    os.makedirs(RESOURCES_FOLDER, exist_ok=True)
         
     avatar_generator = pydenticon.Generator(8, 8, digest=hashlib.sha256)
     
-    # <--- ADDED: Initialize a dictionary to hold all ground truth data
     all_groundtruth_data = {}
 
     for i in range(NUMBER_OF_IMAGES):
         nat_code = random.choice(list(PASSPORT_FORMATS.keys()))
         country_name = fake.country()
-        
         sex = random.choice(['M', 'F'])
         first_name = fake.first_name_male() if sex == 'M' else fake.first_name_female()
         last_name = fake.last_name()
@@ -185,9 +208,9 @@ if __name__ == "__main__":
         file_name = f"passport_{passport_data['passport_number']}.png"
         file_path = os.path.join(OUTPUT_FOLDER, file_name)
         
-        create_passport_image(passport_data, avatar_image_pil, file_path)
+        # Pass the background image path to the function
+        create_passport_image(passport_data, avatar_image_pil, file_path, font_paths, background_image_path)
 
-        # <--- ADDED: Structure and store the ground truth data for this passport
         groundtruth_entry = {
             'passport_number': passport_data['passport_number'],
             'surname': passport_data['surname'],
@@ -195,22 +218,19 @@ if __name__ == "__main__":
             'nationality_code': passport_data['nationality'],
             'nationality_long': passport_data['nationality_long'],
             'sex': passport_data['sex'],
-            'date_of_birth': passport_data['date_of_birth'].isoformat(), # Convert date to string
-            'date_of_issue': passport_data['date_of_issue'].isoformat(), # Convert date to string
-            'date_of_expiry': passport_data['date_of_expiry'].isoformat(), # Convert date to string
+            'date_of_birth': passport_data['date_of_birth'].isoformat(),
+            'date_of_issue': passport_data['date_of_issue'].isoformat(),
+            'date_of_expiry': passport_data['date_of_expiry'].isoformat(),
             'mrz_line1': passport_data['mrz_line1'],
             'mrz_line2': passport_data['mrz_line2']
         }
         all_groundtruth_data[file_name] = groundtruth_entry
-        # --- END ADDED SECTION ---
         
         print(f"({i+1}/{NUMBER_OF_IMAGES}) Generated realistic passport image: {file_name}")
 
-    # <--- ADDED: Write the collected ground truth data to a single JSON file
     groundtruth_filepath = os.path.join(OUTPUT_FOLDER, "groundtruth.json")
     with open(groundtruth_filepath, "w") as f:
         json.dump(all_groundtruth_data, f, indent=4)
-    # --- END ADDED SECTION ---
 
     print(f"\nGeneration complete in folder '{OUTPUT_FOLDER}'")
-    print(f"Ground truth data saved to '{groundtruth_filepath}'") # <--- ADDED: Confirmation message
+    print(f"Ground truth data saved to '{groundtruth_filepath}'")

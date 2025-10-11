@@ -7,7 +7,7 @@ from faker import Faker
 # --- CONFIGURATION ---
 NUMBER_OF_FILES = 100
 LINES_PER_FILE = 200
-OUTPUT_FOLDER = "ticket_output"
+OUTPUT_FOLDER = "out/04_tickets"
 
 # --- DATA FOR REALISM ---
 # Pre-define issue templates for more realistic tickets

@@ -10,7 +10,7 @@ from reportlab.lib import colors
 
 # --- CONFIGURATION ---
 NUMBER_OF_RESUMES = 100
-OUTPUT_FOLDER = "out/resumes"
+OUTPUT_FOLDER = "out/03_resumes"
 
 # Template Colors
 MODERN_BLUE = colors.HexColor('#2d5d8a')
