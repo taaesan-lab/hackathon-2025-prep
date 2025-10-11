@@ -1,0 +1,15 @@
+
+
+a complete Python script to generate 100 realistic Customs Declaration Form from a Thai government. 
+It includes 3 distinct visual templates and uses a pool of 20 persons.
+
+Language: English
+
+resources:
+garuda.png
+
+fonts:
+resources/Kanit-Bold.ttf 
+resources/Kanit-BoldItalic.ttf 
+resources/Kanit-Italic.ttf 
+resources/Kanit-Regular.ttf

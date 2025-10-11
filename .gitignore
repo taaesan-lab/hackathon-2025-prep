@@ -3,7 +3,7 @@
 cdg.env312/
 
 # Ignore the output folder and all its contents
-out/
+#out/
 
 # --- Python / Conda ---
 # Ignore Python cache files

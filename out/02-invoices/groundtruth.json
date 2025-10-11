@@ -1,0 +1,2926 @@
+{
+    "invoice_INV-2025-0001.pdf": {
+        "invoice_id": "INV-2025-0001",
+        "issue_date": "2025-09-29",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 75.5,
+        "tax_amount": 5.29,
+        "total": 80.78,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0002.pdf": {
+        "invoice_id": "INV-2025-0002",
+        "issue_date": "2025-10-06",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6233.5,
+        "tax_amount": 436.35,
+        "total": 6669.85,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0003.pdf": {
+        "invoice_id": "INV-2025-0003",
+        "issue_date": "2025-10-08",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 8628.5,
+        "tax_amount": 604.0,
+        "total": 9232.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0004.pdf": {
+        "invoice_id": "INV-2025-0004",
+        "issue_date": "2025-09-16",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3301.0,
+        "tax_amount": 231.07,
+        "total": 3532.07,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0005.pdf": {
+        "invoice_id": "INV-2025-0005",
+        "issue_date": "2025-09-14",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4059.0,
+        "tax_amount": 284.13,
+        "total": 4343.13,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0006.pdf": {
+        "invoice_id": "INV-2025-0006",
+        "issue_date": "2025-10-11",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 900.0,
+        "tax_amount": 63.0,
+        "total": 963.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0007.pdf": {
+        "invoice_id": "INV-2025-0007",
+        "issue_date": "2025-09-23",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 2404.0,
+        "tax_amount": 168.28,
+        "total": 2572.28,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0008.pdf": {
+        "invoice_id": "INV-2025-0008",
+        "issue_date": "2025-09-15",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 377.5,
+        "tax_amount": 26.43,
+        "total": 403.93,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0009.pdf": {
+        "invoice_id": "INV-2025-0009",
+        "issue_date": "2025-09-16",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4956.0,
+        "tax_amount": 346.92,
+        "total": 5302.92,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0010.pdf": {
+        "invoice_id": "INV-2025-0010",
+        "issue_date": "2025-09-26",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 450.0,
+        "tax_amount": 31.5,
+        "total": 481.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0011.pdf": {
+        "invoice_id": "INV-2025-0011",
+        "issue_date": "2025-10-10",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 5400.0,
+        "tax_amount": 378.0,
+        "total": 5778.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0012.pdf": {
+        "invoice_id": "INV-2025-0012",
+        "issue_date": "2025-10-07",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 151.0,
+        "tax_amount": 10.57,
+        "total": 161.57,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0013.pdf": {
+        "invoice_id": "INV-2025-0013",
+        "issue_date": "2025-09-17",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 1800.0,
+        "tax_amount": 126.0,
+        "total": 1926.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0014.pdf": {
+        "invoice_id": "INV-2025-0014",
+        "issue_date": "2025-09-17",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3902.0,
+        "tax_amount": 273.14,
+        "total": 4175.14,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0015.pdf": {
+        "invoice_id": "INV-2025-0015",
+        "issue_date": "2025-09-21",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4805.0,
+        "tax_amount": 336.35,
+        "total": 5141.35,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0016.pdf": {
+        "invoice_id": "INV-2025-0016",
+        "issue_date": "2025-09-14",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 2706.0,
+        "tax_amount": 189.42,
+        "total": 2895.42,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0017.pdf": {
+        "invoice_id": "INV-2025-0017",
+        "issue_date": "2025-09-17",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 3826.5,
+        "tax_amount": 267.86,
+        "total": 4094.36,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0018.pdf": {
+        "invoice_id": "INV-2025-0018",
+        "issue_date": "2025-10-10",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 4802.0,
+        "tax_amount": 336.14,
+        "total": 5138.14,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0019.pdf": {
+        "invoice_id": "INV-2025-0019",
+        "issue_date": "2025-09-20",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 7278.5,
+        "tax_amount": 509.5,
+        "total": 7787.99,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0020.pdf": {
+        "invoice_id": "INV-2025-0020",
+        "issue_date": "2025-10-10",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 302.0,
+        "tax_amount": 21.14,
+        "total": 323.14,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0021.pdf": {
+        "invoice_id": "INV-2025-0021",
+        "issue_date": "2025-09-28",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 75.5,
+        "tax_amount": 5.29,
+        "total": 80.78,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0022.pdf": {
+        "invoice_id": "INV-2025-0022",
+        "issue_date": "2025-09-29",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 1875.5,
+        "tax_amount": 131.29,
+        "total": 2006.79,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0023.pdf": {
+        "invoice_id": "INV-2025-0023",
+        "issue_date": "2025-09-29",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 7882.5,
+        "tax_amount": 551.78,
+        "total": 8434.27,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0024.pdf": {
+        "invoice_id": "INV-2025-0024",
+        "issue_date": "2025-09-22",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 1434.5,
+        "tax_amount": 100.42,
+        "total": 1534.91,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0025.pdf": {
+        "invoice_id": "INV-2025-0025",
+        "issue_date": "2025-09-23",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 3077.5,
+        "tax_amount": 215.43,
+        "total": 3292.93,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0026.pdf": {
+        "invoice_id": "INV-2025-0026",
+        "issue_date": "2025-09-18",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 11253.0,
+        "tax_amount": 787.71,
+        "total": 12040.71,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0027.pdf": {
+        "invoice_id": "INV-2025-0027",
+        "issue_date": "2025-10-01",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4427.5,
+        "tax_amount": 309.93,
+        "total": 4737.43,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0028.pdf": {
+        "invoice_id": "INV-2025-0028",
+        "issue_date": "2025-09-22",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 2700.0,
+        "tax_amount": 189.0,
+        "total": 2889.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0029.pdf": {
+        "invoice_id": "INV-2025-0029",
+        "issue_date": "2025-09-16",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 7429.5,
+        "tax_amount": 520.07,
+        "total": 7949.57,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0030.pdf": {
+        "invoice_id": "INV-2025-0030",
+        "issue_date": "2025-09-21",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 679.5,
+        "tax_amount": 47.57,
+        "total": 727.07,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0031.pdf": {
+        "invoice_id": "INV-2025-0031",
+        "issue_date": "2025-09-12",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6076.5,
+        "tax_amount": 425.36,
+        "total": 6501.85,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0032.pdf": {
+        "invoice_id": "INV-2025-0032",
+        "issue_date": "2025-09-13",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 5551.0,
+        "tax_amount": 388.57,
+        "total": 5939.57,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0033.pdf": {
+        "invoice_id": "INV-2025-0033",
+        "issue_date": "2025-10-09",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 5850.0,
+        "tax_amount": 409.5,
+        "total": 6259.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0034.pdf": {
+        "invoice_id": "INV-2025-0034",
+        "issue_date": "2025-09-30",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 5182.5,
+        "tax_amount": 362.78,
+        "total": 5545.27,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0035.pdf": {
+        "invoice_id": "INV-2025-0035",
+        "issue_date": "2025-09-13",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4654.0,
+        "tax_amount": 325.78,
+        "total": 4979.78,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0036.pdf": {
+        "invoice_id": "INV-2025-0036",
+        "issue_date": "2025-09-15",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 453.0,
+        "tax_amount": 31.71,
+        "total": 484.71,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0037.pdf": {
+        "invoice_id": "INV-2025-0037",
+        "issue_date": "2025-09-25",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 755.0,
+        "tax_amount": 52.85,
+        "total": 807.85,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0038.pdf": {
+        "invoice_id": "INV-2025-0038",
+        "issue_date": "2025-10-04",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4068.0,
+        "tax_amount": 284.76,
+        "total": 4352.76,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0039.pdf": {
+        "invoice_id": "INV-2025-0039",
+        "issue_date": "2025-09-12",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 4805.0,
+        "tax_amount": 336.35,
+        "total": 5141.35,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0040.pdf": {
+        "invoice_id": "INV-2025-0040",
+        "issue_date": "2025-10-08",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6457.0,
+        "tax_amount": 451.99,
+        "total": 6908.99,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0041.pdf": {
+        "invoice_id": "INV-2025-0041",
+        "issue_date": "2025-10-03",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 8402.0,
+        "tax_amount": 588.14,
+        "total": 8990.14,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0042.pdf": {
+        "invoice_id": "INV-2025-0042",
+        "issue_date": "2025-09-24",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 5028.5,
+        "tax_amount": 352.0,
+        "total": 5380.49,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0043.pdf": {
+        "invoice_id": "INV-2025-0043",
+        "issue_date": "2025-09-22",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 5400.0,
+        "tax_amount": 378.0,
+        "total": 5778.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0044.pdf": {
+        "invoice_id": "INV-2025-0044",
+        "issue_date": "2025-09-24",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 7432.5,
+        "tax_amount": 520.28,
+        "total": 7952.77,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0045.pdf": {
+        "invoice_id": "INV-2025-0045",
+        "issue_date": "2025-09-13",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 1800.0,
+        "tax_amount": 126.0,
+        "total": 1926.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0046.pdf": {
+        "invoice_id": "INV-2025-0046",
+        "issue_date": "2025-09-17",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 5557.0,
+        "tax_amount": 388.99,
+        "total": 5945.99,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0047.pdf": {
+        "invoice_id": "INV-2025-0047",
+        "issue_date": "2025-09-27",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 1202.0,
+        "tax_amount": 84.14,
+        "total": 1286.14,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0048.pdf": {
+        "invoice_id": "INV-2025-0048",
+        "issue_date": "2025-09-15",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 1353.0,
+        "tax_amount": 94.71,
+        "total": 1447.71,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0049.pdf": {
+        "invoice_id": "INV-2025-0049",
+        "issue_date": "2025-09-13",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 5850.0,
+        "tax_amount": 409.5,
+        "total": 6259.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0050.pdf": {
+        "invoice_id": "INV-2025-0050",
+        "issue_date": "2025-09-20",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 1359.0,
+        "tax_amount": 95.13,
+        "total": 1454.13,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0051.pdf": {
+        "invoice_id": "INV-2025-0051",
+        "issue_date": "2025-09-23",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6010.0,
+        "tax_amount": 420.7,
+        "total": 6430.7,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0052.pdf": {
+        "invoice_id": "INV-2025-0052",
+        "issue_date": "2025-09-27",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 13500.0,
+        "tax_amount": 945.0,
+        "total": 14445.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0053.pdf": {
+        "invoice_id": "INV-2025-0053",
+        "issue_date": "2025-09-20",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 9752.0,
+        "tax_amount": 682.64,
+        "total": 10434.64,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0054.pdf": {
+        "invoice_id": "INV-2025-0054",
+        "issue_date": "2025-09-25",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4805.0,
+        "tax_amount": 336.35,
+        "total": 5141.35,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0055.pdf": {
+        "invoice_id": "INV-2025-0055",
+        "issue_date": "2025-10-10",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 2334.5,
+        "tax_amount": 163.42,
+        "total": 2497.91,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0056.pdf": {
+        "invoice_id": "INV-2025-0056",
+        "issue_date": "2025-10-01",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 679.5,
+        "tax_amount": 47.57,
+        "total": 727.07,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0057.pdf": {
+        "invoice_id": "INV-2025-0057",
+        "issue_date": "2025-09-15",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3156.0,
+        "tax_amount": 220.92,
+        "total": 3376.92,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0058.pdf": {
+        "invoice_id": "INV-2025-0058",
+        "issue_date": "2025-09-15",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 9453.0,
+        "tax_amount": 661.71,
+        "total": 10114.71,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0059.pdf": {
+        "invoice_id": "INV-2025-0059",
+        "issue_date": "2025-10-01",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 1126.5,
+        "tax_amount": 78.86,
+        "total": 1205.36,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0060.pdf": {
+        "invoice_id": "INV-2025-0060",
+        "issue_date": "2025-09-15",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6451.0,
+        "tax_amount": 451.57,
+        "total": 6902.57,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0061.pdf": {
+        "invoice_id": "INV-2025-0061",
+        "issue_date": "2025-09-26",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 7728.5,
+        "tax_amount": 541.0,
+        "total": 8269.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0062.pdf": {
+        "invoice_id": "INV-2025-0062",
+        "issue_date": "2025-09-12",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6828.5,
+        "tax_amount": 478.0,
+        "total": 7306.49,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0063.pdf": {
+        "invoice_id": "INV-2025-0063",
+        "issue_date": "2025-09-18",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 3600.0,
+        "tax_amount": 252.0,
+        "total": 3852.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0064.pdf": {
+        "invoice_id": "INV-2025-0064",
+        "issue_date": "2025-09-22",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 755.0,
+        "tax_amount": 52.85,
+        "total": 807.85,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0065.pdf": {
+        "invoice_id": "INV-2025-0065",
+        "issue_date": "2025-09-27",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 4213.0,
+        "tax_amount": 294.91,
+        "total": 4507.91,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0066.pdf": {
+        "invoice_id": "INV-2025-0066",
+        "issue_date": "2025-10-09",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 302.0,
+        "tax_amount": 21.14,
+        "total": 323.14,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0067.pdf": {
+        "invoice_id": "INV-2025-0067",
+        "issue_date": "2025-09-27",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6605.0,
+        "tax_amount": 462.35,
+        "total": 7067.35,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0068.pdf": {
+        "invoice_id": "INV-2025-0068",
+        "issue_date": "2025-10-03",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 2256.0,
+        "tax_amount": 157.92,
+        "total": 2413.92,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0069.pdf": {
+        "invoice_id": "INV-2025-0069",
+        "issue_date": "2025-09-19",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 4050.0,
+        "tax_amount": 283.5,
+        "total": 4333.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0070.pdf": {
+        "invoice_id": "INV-2025-0070",
+        "issue_date": "2025-09-13",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 1812.0,
+        "tax_amount": 126.84,
+        "total": 1938.84,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0071.pdf": {
+        "invoice_id": "INV-2025-0071",
+        "issue_date": "2025-10-10",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 6001.0,
+        "tax_amount": 420.07,
+        "total": 6421.07,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0072.pdf": {
+        "invoice_id": "INV-2025-0072",
+        "issue_date": "2025-09-18",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 4355.0,
+        "tax_amount": 304.85,
+        "total": 4659.85,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0073.pdf": {
+        "invoice_id": "INV-2025-0073",
+        "issue_date": "2025-09-17",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 9900.0,
+        "tax_amount": 693.0,
+        "total": 10593.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0074.pdf": {
+        "invoice_id": "INV-2025-0074",
+        "issue_date": "2025-09-27",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 377.5,
+        "tax_amount": 26.43,
+        "total": 403.93,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0075.pdf": {
+        "invoice_id": "INV-2025-0075",
+        "issue_date": "2025-09-17",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 2793.5,
+        "tax_amount": 195.55,
+        "total": 2989.05,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0076.pdf": {
+        "invoice_id": "INV-2025-0076",
+        "issue_date": "2025-10-01",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 1661.0,
+        "tax_amount": 116.27,
+        "total": 1777.27,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0077.pdf": {
+        "invoice_id": "INV-2025-0077",
+        "issue_date": "2025-09-29",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 3600.0,
+        "tax_amount": 252.0,
+        "total": 3852.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0078.pdf": {
+        "invoice_id": "INV-2025-0078",
+        "issue_date": "2025-10-05",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 2929.5,
+        "tax_amount": 205.07,
+        "total": 3134.57,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0079.pdf": {
+        "invoice_id": "INV-2025-0079",
+        "issue_date": "2025-10-04",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 3379.5,
+        "tax_amount": 236.57,
+        "total": 3616.07,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0080.pdf": {
+        "invoice_id": "INV-2025-0080",
+        "issue_date": "2025-09-24",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3600.0,
+        "tax_amount": 252.0,
+        "total": 3852.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0081.pdf": {
+        "invoice_id": "INV-2025-0081",
+        "issue_date": "2025-09-15",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 1277.5,
+        "tax_amount": 89.43,
+        "total": 1366.92,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0082.pdf": {
+        "invoice_id": "INV-2025-0082",
+        "issue_date": "2025-09-16",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3612.0,
+        "tax_amount": 252.84,
+        "total": 3864.84,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0083.pdf": {
+        "invoice_id": "INV-2025-0083",
+        "issue_date": "2025-09-11",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3376.5,
+        "tax_amount": 236.36,
+        "total": 3612.86,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0084.pdf": {
+        "invoice_id": "INV-2025-0084",
+        "issue_date": "2025-10-05",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3600.0,
+        "tax_amount": 252.0,
+        "total": 3852.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0085.pdf": {
+        "invoice_id": "INV-2025-0085",
+        "issue_date": "2025-10-03",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 13053.0,
+        "tax_amount": 913.71,
+        "total": 13966.71,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0086.pdf": {
+        "invoice_id": "INV-2025-0086",
+        "issue_date": "2025-10-09",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 1736.5,
+        "tax_amount": 121.56,
+        "total": 1858.06,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0087.pdf": {
+        "invoice_id": "INV-2025-0087",
+        "issue_date": "2025-09-14",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 8260.0,
+        "tax_amount": 578.2,
+        "total": 8838.2,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0088.pdf": {
+        "invoice_id": "INV-2025-0088",
+        "issue_date": "2025-10-04",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 5928.5,
+        "tax_amount": 415.0,
+        "total": 6343.49,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0089.pdf": {
+        "invoice_id": "INV-2025-0089",
+        "issue_date": "2025-10-03",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 8332.5,
+        "tax_amount": 583.28,
+        "total": 8915.77,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0090.pdf": {
+        "invoice_id": "INV-2025-0090",
+        "issue_date": "2025-09-14",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 601.0,
+        "tax_amount": 42.07,
+        "total": 643.07,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 2,
+                "unit_price": 75.5,
+                "line_total": 151.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0091.pdf": {
+        "invoice_id": "INV-2025-0091",
+        "issue_date": "2025-10-10",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3826.5,
+        "tax_amount": 267.86,
+        "total": 4094.36,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 2,
+                "unit_price": 450.0,
+                "line_total": 900.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 3,
+                "unit_price": 75.5,
+                "line_total": 226.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0092.pdf": {
+        "invoice_id": "INV-2025-0092",
+        "issue_date": "2025-09-28",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 12228.5,
+        "tax_amount": 856.0,
+        "total": 13084.5,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0093.pdf": {
+        "invoice_id": "INV-2025-0093",
+        "issue_date": "2025-10-04",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 7961.0,
+        "tax_amount": 557.27,
+        "total": 8518.27,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 7,
+                "unit_price": 75.5,
+                "line_total": 528.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0094.pdf": {
+        "invoice_id": "INV-2025-0094",
+        "issue_date": "2025-09-20",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 17100.0,
+        "tax_amount": 1197.0,
+        "total": 18297.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 5,
+                "unit_price": 450.0,
+                "line_total": 2250.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 8,
+                "unit_price": 450.0,
+                "line_total": 3600.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0095.pdf": {
+        "invoice_id": "INV-2025-0095",
+        "issue_date": "2025-09-19",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 4131.5,
+        "tax_amount": 289.21,
+        "total": 4420.7,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 7,
+                "unit_price": 450.0,
+                "line_total": 3150.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 5,
+                "unit_price": 75.5,
+                "line_total": 377.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 4,
+                "unit_price": 75.5,
+                "line_total": 302.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0096.pdf": {
+        "invoice_id": "INV-2025-0096",
+        "issue_date": "2025-09-16",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 5400.0,
+        "tax_amount": 378.0,
+        "total": 5778.0,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0097.pdf": {
+        "invoice_id": "INV-2025-0097",
+        "issue_date": "2025-10-03",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 3083.5,
+        "tax_amount": 215.85,
+        "total": 3299.35,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 9,
+                "unit_price": 75.5,
+                "line_total": 679.5
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 3,
+                "unit_price": 450.0,
+                "line_total": 1350.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0098.pdf": {
+        "invoice_id": "INV-2025-0098",
+        "issue_date": "2025-10-01",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 3530.5,
+        "tax_amount": 247.14,
+        "total": 3777.64,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 6,
+                "unit_price": 450.0,
+                "line_total": 2700.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 1,
+                "unit_price": 75.5,
+                "line_total": 75.5
+            }
+        ]
+    },
+    "invoice_INV-2025-0099.pdf": {
+        "invoice_id": "INV-2025-0099",
+        "issue_date": "2025-10-11",
+        "customer_name": "StellarWorks Inc.",
+        "customer_address": "456 Galaxy Avenue, Seattle, WA 98101",
+        "subtotal": 11105.0,
+        "tax_amount": 777.35,
+        "total": 11882.35,
+        "line_items": [
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 10,
+                "unit_price": 450.0,
+                "line_total": 4500.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 10,
+                "unit_price": 75.5,
+                "line_total": 755.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 4,
+                "unit_price": 450.0,
+                "line_total": 1800.0
+            }
+        ]
+    },
+    "invoice_INV-2025-0100.pdf": {
+        "invoice_id": "INV-2025-0100",
+        "issue_date": "2025-09-17",
+        "customer_name": "QuantumLeap Tech",
+        "customer_address": "123 Quantum Drive, Silicon Valley, CA 94043",
+        "subtotal": 6007.0,
+        "tax_amount": 420.49,
+        "total": 6427.49,
+        "line_items": [
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 6,
+                "unit_price": 75.5,
+                "line_total": 453.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 1,
+                "unit_price": 450.0,
+                "line_total": 450.0
+            },
+            {
+                "description": "HyperLoop Data Cable (10m)",
+                "quantity": 8,
+                "unit_price": 75.5,
+                "line_total": 604.0
+            },
+            {
+                "description": "Quantum Processor Core",
+                "quantity": 9,
+                "unit_price": 450.0,
+                "line_total": 4050.0
+            }
+        ]
+    }
+}

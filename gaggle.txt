@@ -1,0 +1,44 @@
+--- GPU Information ---
+Sat Oct 11 10:12:07 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 560.35.03              Driver Version: 560.35.03      CUDA Version: 12.6     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Tesla T4                       Off |   00000000:00:04.0 Off |                    0 |
+| N/A   44C    P8             11W /   70W |       1MiB /  15360MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+|   1  Tesla T4                       Off |   00000000:00:05.0 Off |                    0 |
+| N/A   45C    P8             11W /   70W |       1MiB /  15360MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+--- CPU Information ---
+CPU(s):                               4
+On-line CPU(s) list:                  0-3
+Model name:                           Intel(R) Xeon(R) CPU @ 2.00GHz
+Core(s) per socket:                   2
+Socket(s):                            1
+NUMA node0 CPU(s):                    0-3
+
+Number of logical CPU cores available: 4
+
+--- RAM Information ---
+Total RAM: 31.35 GB
+Available RAM: 29.55 GB
+
+--- Python & Library Versions ---
+Python Version: 3.11.13
+PyTorch Version: 2.6.0+cu124
+TensorFlow Version: 2.18.0

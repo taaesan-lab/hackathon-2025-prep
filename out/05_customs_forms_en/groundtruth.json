@@ -1,0 +1,2435 @@
+{
+    "Customs_Form_EN_SS5227717.pdf": {
+        "form_id": 1,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "SS5227717",
+        "dob_str": "14 July 1988",
+        "flight_no": "JL213",
+        "origin_city": "London",
+        "arrival_date": "2025-10-09T11:16:00.312453",
+        "arrival_date_str": "October 09, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_DE6515119.pdf": {
+        "form_id": 2,
+        "person": {
+            "title": "Mr.",
+            "fname": "Chatchai",
+            "lname": "Siripattana",
+            "dob": "1991-08-08",
+            "occupation": "Doctor",
+            "nationality": "Thai"
+        },
+        "passport_no": "DE6515119",
+        "dob_str": "08 August 1991",
+        "flight_no": "KE193",
+        "origin_city": "Paris",
+        "arrival_date": "2025-09-24T11:16:00.340017",
+        "arrival_date_str": "September 24, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_EH2728923.pdf": {
+        "form_id": 3,
+        "person": {
+            "title": "Ms.",
+            "fname": "Kamonwan",
+            "lname": "Suphantharida",
+            "dob": "2000-01-30",
+            "occupation": "Student",
+            "nationality": "Thai"
+        },
+        "passport_no": "EH2728923",
+        "dob_str": "30 January 2000",
+        "flight_no": "TG709",
+        "origin_city": "Hong Kong",
+        "arrival_date": "2025-09-20T11:16:00.350197",
+        "arrival_date_str": "September 20, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 19423
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_XB9917238.pdf": {
+        "form_id": 4,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "XB9917238",
+        "dob_str": "15 May 1985",
+        "flight_no": "WE251",
+        "origin_city": "London",
+        "arrival_date": "2025-10-03T11:16:00.363119",
+        "arrival_date_str": "October 03, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 331654
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 33034
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_AT5535570.pdf": {
+        "form_id": 5,
+        "person": {
+            "title": "Mr.",
+            "fname": "Anucha",
+            "lname": "Phakdeesettakun",
+            "dob": "1995-07-22",
+            "occupation": "Software Developer",
+            "nationality": "Thai"
+        },
+        "passport_no": "AT5535570",
+        "dob_str": "22 July 1995",
+        "flight_no": "EK726",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-10-05T11:16:00.368741",
+        "arrival_date_str": "October 05, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_XO6179149.pdf": {
+        "form_id": 6,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Sunisa",
+            "lname": "Asavanonda",
+            "dob": "1983-06-25",
+            "occupation": "Teacher",
+            "nationality": "Thai"
+        },
+        "passport_no": "XO6179149",
+        "dob_str": "25 June 1983",
+        "flight_no": "XJ233",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-24T11:16:00.380079",
+        "arrival_date_str": "September 24, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_LX5582522.pdf": {
+        "form_id": 7,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Isabelle",
+            "lname": "Dubois",
+            "dob": "1980-09-17",
+            "occupation": "Diplomat",
+            "nationality": "French"
+        },
+        "passport_no": "LX5582522",
+        "dob_str": "17 September 1980",
+        "flight_no": "WE207",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-09-23T11:16:00.394757",
+        "arrival_date_str": "September 23, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_AT4773489.pdf": {
+        "form_id": 8,
+        "person": {
+            "title": "Ms.",
+            "fname": "Emily",
+            "lname": "Jones",
+            "dob": "1990-10-05",
+            "occupation": "Expat",
+            "nationality": "British"
+        },
+        "passport_no": "AT4773489",
+        "dob_str": "05 October 1990",
+        "flight_no": "SQ962",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-10-03T11:16:00.400259",
+        "arrival_date_str": "October 03, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_PJ2719012.pdf": {
+        "form_id": 9,
+        "person": {
+            "title": "Mr.",
+            "fname": "Anucha",
+            "lname": "Phakdeesettakun",
+            "dob": "1995-07-22",
+            "occupation": "Software Developer",
+            "nationality": "Thai"
+        },
+        "passport_no": "PJ2719012",
+        "dob_str": "22 July 1995",
+        "flight_no": "TG660",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-18T11:16:00.409925",
+        "arrival_date_str": "September 18, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_AJ7319630.pdf": {
+        "form_id": 10,
+        "person": {
+            "title": "Mr.",
+            "fname": "Natthapong",
+            "lname": "Saetang",
+            "dob": "1978-02-10",
+            "occupation": "Business Owner",
+            "nationality": "Thai"
+        },
+        "passport_no": "AJ7319630",
+        "dob_str": "10 February 1978",
+        "flight_no": "EK466",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-09-19T11:16:00.427612",
+        "arrival_date_str": "September 19, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_CJ8362860.pdf": {
+        "form_id": 11,
+        "person": {
+            "title": "Mr.",
+            "fname": "Prakit",
+            "lname": "Jiradej",
+            "dob": "1986-10-09",
+            "occupation": "Architect",
+            "nationality": "Thai"
+        },
+        "passport_no": "CJ8362860",
+        "dob_str": "09 October 1986",
+        "flight_no": "CX711",
+        "origin_city": "Hong Kong",
+        "arrival_date": "2025-09-20T11:16:00.441660",
+        "arrival_date_str": "September 20, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_HF6409735.pdf": {
+        "form_id": 12,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "HF6409735",
+        "dob_str": "14 July 1988",
+        "flight_no": "WE250",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-16T11:16:00.443557",
+        "arrival_date_str": "September 16, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": true,
+        "declared_items": [
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 26007
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_BK4914912.pdf": {
+        "form_id": 13,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "BK4914912",
+        "dob_str": "21 May 1979",
+        "flight_no": "XJ201",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-09-12T11:16:00.461925",
+        "arrival_date_str": "September 12, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_IA9444673.pdf": {
+        "form_id": 14,
+        "person": {
+            "title": "Mr.",
+            "fname": "Peter",
+            "lname": "Schmidt",
+            "dob": "1975-11-30",
+            "occupation": "Manager",
+            "nationality": "German"
+        },
+        "passport_no": "IA9444673",
+        "dob_str": "30 November 1975",
+        "flight_no": "JL983",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-10-01T11:16:00.477279",
+        "arrival_date_str": "October 01, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_NS2858373.pdf": {
+        "form_id": 15,
+        "person": {
+            "title": "Mr.",
+            "fname": "Peter",
+            "lname": "Schmidt",
+            "dob": "1975-11-30",
+            "occupation": "Manager",
+            "nationality": "German"
+        },
+        "passport_no": "NS2858373",
+        "dob_str": "30 November 1975",
+        "flight_no": "SQ123",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-10-04T11:16:00.489056",
+        "arrival_date_str": "October 04, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 157041
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_SY4673130.pdf": {
+        "form_id": 16,
+        "person": {
+            "title": "Ms.",
+            "fname": "Siriporn",
+            "lname": "Ratanakorn",
+            "dob": "1998-02-14",
+            "occupation": "Flight Attendant",
+            "nationality": "Thai"
+        },
+        "passport_no": "SY4673130",
+        "dob_str": "14 February 1998",
+        "flight_no": "TG925",
+        "origin_city": "Hong Kong",
+        "arrival_date": "2025-09-14T11:16:00.499211",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_WE8565340.pdf": {
+        "form_id": 17,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "WE8565340",
+        "dob_str": "14 July 1988",
+        "flight_no": "KE403",
+        "origin_city": "London",
+        "arrival_date": "2025-09-14T11:16:00.512213",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_BH3708140.pdf": {
+        "form_id": 18,
+        "person": {
+            "title": "Ms.",
+            "fname": "Siriporn",
+            "lname": "Ratanakorn",
+            "dob": "1998-02-14",
+            "occupation": "Flight Attendant",
+            "nationality": "Thai"
+        },
+        "passport_no": "BH3708140",
+        "dob_str": "14 February 1998",
+        "flight_no": "QR596",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-29T11:16:00.520959",
+        "arrival_date_str": "September 29, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_CO7724829.pdf": {
+        "form_id": 19,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "CO7724829",
+        "dob_str": "14 July 1988",
+        "flight_no": "TG513",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-21T11:16:00.528960",
+        "arrival_date_str": "September 21, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_RX3120854.pdf": {
+        "form_id": 20,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "RX3120854",
+        "dob_str": "21 May 1979",
+        "flight_no": "TG591",
+        "origin_city": "Singapore",
+        "arrival_date": "2025-09-20T11:16:00.538922",
+        "arrival_date_str": "September 20, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_WO2707877.pdf": {
+        "form_id": 21,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "WO2707877",
+        "dob_str": "12 March 1982",
+        "flight_no": "EK625",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-21T11:16:00.543042",
+        "arrival_date_str": "September 21, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_IH3373739.pdf": {
+        "form_id": 22,
+        "person": {
+            "title": "Ms.",
+            "fname": "Kamonwan",
+            "lname": "Suphantharida",
+            "dob": "2000-01-30",
+            "occupation": "Student",
+            "nationality": "Thai"
+        },
+        "passport_no": "IH3373739",
+        "dob_str": "30 January 2000",
+        "flight_no": "WE595",
+        "origin_city": "London",
+        "arrival_date": "2025-10-06T11:16:00.556560",
+        "arrival_date_str": "October 06, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_KO7072395.pdf": {
+        "form_id": 23,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "KO7072395",
+        "dob_str": "15 May 1985",
+        "flight_no": "QR116",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-10-01T11:16:00.559772",
+        "arrival_date_str": "October 01, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_IO9231610.pdf": {
+        "form_id": 24,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Pornthip",
+            "lname": "Kittisiriprasert",
+            "dob": "1980-09-03",
+            "occupation": "Accountant",
+            "nationality": "Thai"
+        },
+        "passport_no": "IO9231610",
+        "dob_str": "03 September 1980",
+        "flight_no": "CX216",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-26T11:16:00.574768",
+        "arrival_date_str": "September 26, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_FM7278083.pdf": {
+        "form_id": 25,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "FM7278083",
+        "dob_str": "14 July 1988",
+        "flight_no": "XJ963",
+        "origin_city": "Singapore",
+        "arrival_date": "2025-09-18T11:16:00.591334",
+        "arrival_date_str": "September 18, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_FY1135398.pdf": {
+        "form_id": 26,
+        "person": {
+            "title": "Mr.",
+            "fname": "Weerasak",
+            "lname": "Chaiyaporn",
+            "dob": "1969-12-01",
+            "occupation": "Government Officer",
+            "nationality": "Thai"
+        },
+        "passport_no": "FY1135398",
+        "dob_str": "01 December 1969",
+        "flight_no": "TG734",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-09-28T11:16:00.593564",
+        "arrival_date_str": "September 28, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_ZE5844643.pdf": {
+        "form_id": 27,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "ZE5844643",
+        "dob_str": "12 March 1982",
+        "flight_no": "XJ514",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-10-02T11:16:00.609142",
+        "arrival_date_str": "October 02, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Louis Vuitton Bag",
+                "quantity": 1,
+                "value": 214083
+            },
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 12905
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_FJ6677843.pdf": {
+        "form_id": 28,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "FJ6677843",
+        "dob_str": "15 May 1985",
+        "flight_no": "TG673",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-10-09T11:16:00.616229",
+        "arrival_date_str": "October 09, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_SN3205697.pdf": {
+        "form_id": 29,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Sunisa",
+            "lname": "Asavanonda",
+            "dob": "1983-06-25",
+            "occupation": "Teacher",
+            "nationality": "Thai"
+        },
+        "passport_no": "SN3205697",
+        "dob_str": "25 June 1983",
+        "flight_no": "WE728",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-23T11:16:00.629181",
+        "arrival_date_str": "September 23, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 31306
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_PI8472660.pdf": {
+        "form_id": 30,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Sunisa",
+            "lname": "Asavanonda",
+            "dob": "1983-06-25",
+            "occupation": "Teacher",
+            "nationality": "Thai"
+        },
+        "passport_no": "PI8472660",
+        "dob_str": "25 June 1983",
+        "flight_no": "CX283",
+        "origin_city": "London",
+        "arrival_date": "2025-09-23T11:16:00.632345",
+        "arrival_date_str": "September 23, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 62201
+            },
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 169371
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_QA9785323.pdf": {
+        "form_id": 31,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "QA9785323",
+        "dob_str": "15 May 1985",
+        "flight_no": "XJ271",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-11T11:16:00.648116",
+        "arrival_date_str": "September 11, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_WQ8892486.pdf": {
+        "form_id": 32,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "WQ8892486",
+        "dob_str": "14 July 1988",
+        "flight_no": "QR161",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-16T11:16:00.665037",
+        "arrival_date_str": "September 16, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_TS6636599.pdf": {
+        "form_id": 33,
+        "person": {
+            "title": "Mr.",
+            "fname": "Peter",
+            "lname": "Schmidt",
+            "dob": "1975-11-30",
+            "occupation": "Manager",
+            "nationality": "German"
+        },
+        "passport_no": "TS6636599",
+        "dob_str": "30 November 1975",
+        "flight_no": "WE578",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-17T11:16:00.678494",
+        "arrival_date_str": "September 17, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_YO2579704.pdf": {
+        "form_id": 34,
+        "person": {
+            "title": "Ms.",
+            "fname": "Waranya",
+            "lname": "Techaphaiboon",
+            "dob": "1993-03-29",
+            "occupation": "Lawyer",
+            "nationality": "Thai"
+        },
+        "passport_no": "YO2579704",
+        "dob_str": "29 March 1993",
+        "flight_no": "JL508",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-10-03T11:16:00.690881",
+        "arrival_date_str": "October 03, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 11889
+            },
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 52146
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_OM8340436.pdf": {
+        "form_id": 35,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "OM8340436",
+        "dob_str": "12 March 1982",
+        "flight_no": "TG457",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-20T11:16:00.699398",
+        "arrival_date_str": "September 20, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_PU4712322.pdf": {
+        "form_id": 36,
+        "person": {
+            "title": "Ms.",
+            "fname": "Siriporn",
+            "lname": "Ratanakorn",
+            "dob": "1998-02-14",
+            "occupation": "Flight Attendant",
+            "nationality": "Thai"
+        },
+        "passport_no": "PU4712322",
+        "dob_str": "14 February 1998",
+        "flight_no": "SQ122",
+        "origin_city": "London",
+        "arrival_date": "2025-09-29T11:16:00.711046",
+        "arrival_date_str": "September 29, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 10882
+            },
+            {
+                "item": "Louis Vuitton Bag",
+                "quantity": 1,
+                "value": 99516
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_YP5116584.pdf": {
+        "form_id": 37,
+        "person": {
+            "title": "Ms.",
+            "fname": "Emily",
+            "lname": "Jones",
+            "dob": "1990-10-05",
+            "occupation": "Expat",
+            "nationality": "British"
+        },
+        "passport_no": "YP5116584",
+        "dob_str": "05 October 1990",
+        "flight_no": "XJ702",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-10-08T11:16:00.716184",
+        "arrival_date_str": "October 08, 2025",
+        "family_members": 2,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 63804
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_BD4995075.pdf": {
+        "form_id": 38,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "BD4995075",
+        "dob_str": "14 July 1988",
+        "flight_no": "CX814",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-10-11T11:16:00.726778",
+        "arrival_date_str": "October 11, 2025",
+        "family_members": 2,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Louis Vuitton Bag",
+                "quantity": 1,
+                "value": 184340
+            },
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 402930
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_OW4062132.pdf": {
+        "form_id": 39,
+        "person": {
+            "title": "Ms.",
+            "fname": "Emily",
+            "lname": "Jones",
+            "dob": "1990-10-05",
+            "occupation": "Expat",
+            "nationality": "British"
+        },
+        "passport_no": "OW4062132",
+        "dob_str": "05 October 1990",
+        "flight_no": "FD113",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-18T11:16:00.740616",
+        "arrival_date_str": "September 18, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_QL4059296.pdf": {
+        "form_id": 40,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Isabelle",
+            "lname": "Dubois",
+            "dob": "1980-09-17",
+            "occupation": "Diplomat",
+            "nationality": "French"
+        },
+        "passport_no": "QL4059296",
+        "dob_str": "17 September 1980",
+        "flight_no": "JL826",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-10-11T11:16:00.749316",
+        "arrival_date_str": "October 11, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_OO1155505.pdf": {
+        "form_id": 41,
+        "person": {
+            "title": "Ms.",
+            "fname": "Yuki",
+            "lname": "Tanaka",
+            "dob": "1995-01-22",
+            "occupation": "Researcher",
+            "nationality": "Japanese"
+        },
+        "passport_no": "OO1155505",
+        "dob_str": "22 January 1995",
+        "flight_no": "SQ771",
+        "origin_city": "London",
+        "arrival_date": "2025-09-25T11:16:00.759660",
+        "arrival_date_str": "September 25, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 232790
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_KF2325618.pdf": {
+        "form_id": 42,
+        "person": {
+            "title": "Ms.",
+            "fname": "Emily",
+            "lname": "Jones",
+            "dob": "1990-10-05",
+            "occupation": "Expat",
+            "nationality": "British"
+        },
+        "passport_no": "KF2325618",
+        "dob_str": "05 October 1990",
+        "flight_no": "XJ760",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-09-20T11:16:00.763082",
+        "arrival_date_str": "September 20, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_FW7907681.pdf": {
+        "form_id": 43,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "FW7907681",
+        "dob_str": "14 July 1988",
+        "flight_no": "JL989",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-14T11:16:00.774588",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_MX1761432.pdf": {
+        "form_id": 44,
+        "person": {
+            "title": "Mr.",
+            "fname": "Chatchai",
+            "lname": "Siripattana",
+            "dob": "1991-08-08",
+            "occupation": "Doctor",
+            "nationality": "Thai"
+        },
+        "passport_no": "MX1761432",
+        "dob_str": "08 August 1991",
+        "flight_no": "QR765",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-10-05T11:16:00.793204",
+        "arrival_date_str": "October 05, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 396649
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_NR7983873.pdf": {
+        "form_id": 45,
+        "person": {
+            "title": "Ms.",
+            "fname": "Siriporn",
+            "lname": "Ratanakorn",
+            "dob": "1998-02-14",
+            "occupation": "Flight Attendant",
+            "nationality": "Thai"
+        },
+        "passport_no": "NR7983873",
+        "dob_str": "14 February 1998",
+        "flight_no": "XJ742",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-10-06T11:16:00.793204",
+        "arrival_date_str": "October 06, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_AZ1256664.pdf": {
+        "form_id": 46,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "AZ1256664",
+        "dob_str": "15 May 1985",
+        "flight_no": "QR884",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-11T11:16:00.810659",
+        "arrival_date_str": "September 11, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_ZZ5239601.pdf": {
+        "form_id": 47,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Isabelle",
+            "lname": "Dubois",
+            "dob": "1980-09-17",
+            "occupation": "Diplomat",
+            "nationality": "French"
+        },
+        "passport_no": "ZZ5239601",
+        "dob_str": "17 September 1980",
+        "flight_no": "SQ436",
+        "origin_city": "Paris",
+        "arrival_date": "2025-09-30T11:16:00.826253",
+        "arrival_date_str": "September 30, 2025",
+        "family_members": 2,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 16539
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 37054
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_FR8082143.pdf": {
+        "form_id": 48,
+        "person": {
+            "title": "Mr.",
+            "fname": "Prakit",
+            "lname": "Jiradej",
+            "dob": "1986-10-09",
+            "occupation": "Architect",
+            "nationality": "Thai"
+        },
+        "passport_no": "FR8082143",
+        "dob_str": "09 October 1986",
+        "flight_no": "KE897",
+        "origin_city": "Singapore",
+        "arrival_date": "2025-09-28T11:16:00.831139",
+        "arrival_date_str": "September 28, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_GC4775312.pdf": {
+        "form_id": 49,
+        "person": {
+            "title": "Mr.",
+            "fname": "Natthapong",
+            "lname": "Saetang",
+            "dob": "1978-02-10",
+            "occupation": "Business Owner",
+            "nationality": "Thai"
+        },
+        "passport_no": "GC4775312",
+        "dob_str": "10 February 1978",
+        "flight_no": "SQ148",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-10-06T11:16:00.837914",
+        "arrival_date_str": "October 06, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_OX2900965.pdf": {
+        "form_id": 50,
+        "person": {
+            "title": "Ms.",
+            "fname": "Ariya",
+            "lname": "Wongrat",
+            "dob": "1992-11-20",
+            "occupation": "Marketing Manager",
+            "nationality": "Thai"
+        },
+        "passport_no": "OX2900965",
+        "dob_str": "20 November 1992",
+        "flight_no": "JL719",
+        "origin_city": "London",
+        "arrival_date": "2025-09-28T11:16:00.859534",
+        "arrival_date_str": "September 28, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_HE5890578.pdf": {
+        "form_id": 51,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "HE5890578",
+        "dob_str": "12 March 1982",
+        "flight_no": "SQ710",
+        "origin_city": "London",
+        "arrival_date": "2025-09-14T11:16:00.869188",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 265246
+            },
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 21220
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_KL3158717.pdf": {
+        "form_id": 52,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Pornthip",
+            "lname": "Kittisiriprasert",
+            "dob": "1980-09-03",
+            "occupation": "Accountant",
+            "nationality": "Thai"
+        },
+        "passport_no": "KL3158717",
+        "dob_str": "03 September 1980",
+        "flight_no": "TG591",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-10-05T11:16:00.887119",
+        "arrival_date_str": "October 05, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_NJ7011360.pdf": {
+        "form_id": 53,
+        "person": {
+            "title": "Mr.",
+            "fname": "Prakit",
+            "lname": "Jiradej",
+            "dob": "1986-10-09",
+            "occupation": "Architect",
+            "nationality": "Thai"
+        },
+        "passport_no": "NJ7011360",
+        "dob_str": "09 October 1986",
+        "flight_no": "CX644",
+        "origin_city": "London",
+        "arrival_date": "2025-09-27T11:16:00.899454",
+        "arrival_date_str": "September 27, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_DS4993128.pdf": {
+        "form_id": 54,
+        "person": {
+            "title": "Mr.",
+            "fname": "Weerasak",
+            "lname": "Chaiyaporn",
+            "dob": "1969-12-01",
+            "occupation": "Government Officer",
+            "nationality": "Thai"
+        },
+        "passport_no": "DS4993128",
+        "dob_str": "01 December 1969",
+        "flight_no": "CX256",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-14T11:16:00.914005",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_IN6732243.pdf": {
+        "form_id": 55,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "IN6732243",
+        "dob_str": "12 March 1982",
+        "flight_no": "KE265",
+        "origin_city": "Paris",
+        "arrival_date": "2025-10-03T11:16:00.924216",
+        "arrival_date_str": "October 03, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_GT5372447.pdf": {
+        "form_id": 56,
+        "person": {
+            "title": "Ms.",
+            "fname": "Emily",
+            "lname": "Jones",
+            "dob": "1990-10-05",
+            "occupation": "Expat",
+            "nationality": "British"
+        },
+        "passport_no": "GT5372447",
+        "dob_str": "05 October 1990",
+        "flight_no": "FD770",
+        "origin_city": "Singapore",
+        "arrival_date": "2025-10-08T11:16:00.935127",
+        "arrival_date_str": "October 08, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_KR4024369.pdf": {
+        "form_id": 57,
+        "person": {
+            "title": "Ms.",
+            "fname": "Thanyarat",
+            "lname": "Lertlum",
+            "dob": "1988-04-18",
+            "occupation": "Graphic Designer",
+            "nationality": "Thai"
+        },
+        "passport_no": "KR4024369",
+        "dob_str": "18 April 1988",
+        "flight_no": "FD476",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-21T11:16:00.952483",
+        "arrival_date_str": "September 21, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_KT6725534.pdf": {
+        "form_id": 58,
+        "person": {
+            "title": "Ms.",
+            "fname": "Ariya",
+            "lname": "Wongrat",
+            "dob": "1992-11-20",
+            "occupation": "Marketing Manager",
+            "nationality": "Thai"
+        },
+        "passport_no": "KT6725534",
+        "dob_str": "20 November 1992",
+        "flight_no": "TG101",
+        "origin_city": "Singapore",
+        "arrival_date": "2025-09-22T11:16:00.963728",
+        "arrival_date_str": "September 22, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 19771
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_QJ2463809.pdf": {
+        "form_id": 59,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "QJ2463809",
+        "dob_str": "15 May 1985",
+        "flight_no": "QR857",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-16T11:16:00.971035",
+        "arrival_date_str": "September 16, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_DD9877971.pdf": {
+        "form_id": 60,
+        "person": {
+            "title": "Mr.",
+            "fname": "Chatchai",
+            "lname": "Siripattana",
+            "dob": "1991-08-08",
+            "occupation": "Doctor",
+            "nationality": "Thai"
+        },
+        "passport_no": "DD9877971",
+        "dob_str": "08 August 1991",
+        "flight_no": "QR116",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-18T11:16:00.979582",
+        "arrival_date_str": "September 18, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_SJ3285993.pdf": {
+        "form_id": 61,
+        "person": {
+            "title": "Ms.",
+            "fname": "Kamonwan",
+            "lname": "Suphantharida",
+            "dob": "2000-01-30",
+            "occupation": "Student",
+            "nationality": "Thai"
+        },
+        "passport_no": "SJ3285993",
+        "dob_str": "30 January 2000",
+        "flight_no": "JL438",
+        "origin_city": "Doha",
+        "arrival_date": "2025-10-07T11:16:00.985400",
+        "arrival_date_str": "October 07, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_TP1679771.pdf": {
+        "form_id": 62,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "TP1679771",
+        "dob_str": "12 March 1982",
+        "flight_no": "QR238",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-27T11:16:00.988963",
+        "arrival_date_str": "September 27, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 20042
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 16895
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_DL5109414.pdf": {
+        "form_id": 63,
+        "person": {
+            "title": "Ms.",
+            "fname": "Kamonwan",
+            "lname": "Suphantharida",
+            "dob": "2000-01-30",
+            "occupation": "Student",
+            "nationality": "Thai"
+        },
+        "passport_no": "DL5109414",
+        "dob_str": "30 January 2000",
+        "flight_no": "QR232",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-19T11:16:01.004920",
+        "arrival_date_str": "September 19, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 16798
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 39661
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_RT5300307.pdf": {
+        "form_id": 64,
+        "person": {
+            "title": "Ms.",
+            "fname": "Thanyarat",
+            "lname": "Lertlum",
+            "dob": "1988-04-18",
+            "occupation": "Graphic Designer",
+            "nationality": "Thai"
+        },
+        "passport_no": "RT5300307",
+        "dob_str": "18 April 1988",
+        "flight_no": "SQ959",
+        "origin_city": "Hong Kong",
+        "arrival_date": "2025-09-15T11:16:01.012402",
+        "arrival_date_str": "September 15, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_ST2402694.pdf": {
+        "form_id": 65,
+        "person": {
+            "title": "Ms.",
+            "fname": "Yuki",
+            "lname": "Tanaka",
+            "dob": "1995-01-22",
+            "occupation": "Researcher",
+            "nationality": "Japanese"
+        },
+        "passport_no": "ST2402694",
+        "dob_str": "22 January 1995",
+        "flight_no": "KE239",
+        "origin_city": "Hong Kong",
+        "arrival_date": "2025-10-09T11:16:01.028864",
+        "arrival_date_str": "October 09, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_ZL5402702.pdf": {
+        "form_id": 66,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "ZL5402702",
+        "dob_str": "21 May 1979",
+        "flight_no": "KE651",
+        "origin_city": "Doha",
+        "arrival_date": "2025-10-10T11:16:01.041388",
+        "arrival_date_str": "October 10, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 50614
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 37962
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_HK7524866.pdf": {
+        "form_id": 67,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "HK7524866",
+        "dob_str": "12 March 1982",
+        "flight_no": "FD183",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-21T11:16:01.048703",
+        "arrival_date_str": "September 21, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 59447
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_JX5641614.pdf": {
+        "form_id": 68,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Sunisa",
+            "lname": "Asavanonda",
+            "dob": "1983-06-25",
+            "occupation": "Teacher",
+            "nationality": "Thai"
+        },
+        "passport_no": "JX5641614",
+        "dob_str": "25 June 1983",
+        "flight_no": "WE221",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-10-10T11:16:01.059091",
+        "arrival_date_str": "October 10, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Louis Vuitton Bag",
+                "quantity": 1,
+                "value": 169805
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_NO6660064.pdf": {
+        "form_id": 69,
+        "person": {
+            "title": "Ms.",
+            "fname": "Yuki",
+            "lname": "Tanaka",
+            "dob": "1995-01-22",
+            "occupation": "Researcher",
+            "nationality": "Japanese"
+        },
+        "passport_no": "NO6660064",
+        "dob_str": "22 January 1995",
+        "flight_no": "CX367",
+        "origin_city": "Paris",
+        "arrival_date": "2025-10-04T11:16:01.068869",
+        "arrival_date_str": "October 04, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_YX2361102.pdf": {
+        "form_id": 70,
+        "person": {
+            "title": "Ms.",
+            "fname": "Waranya",
+            "lname": "Techaphaiboon",
+            "dob": "1993-03-29",
+            "occupation": "Lawyer",
+            "nationality": "Thai"
+        },
+        "passport_no": "YX2361102",
+        "dob_str": "29 March 1993",
+        "flight_no": "WE335",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-10-02T11:16:01.077663",
+        "arrival_date_str": "October 02, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_YW4385090.pdf": {
+        "form_id": 71,
+        "person": {
+            "title": "Ms.",
+            "fname": "Ariya",
+            "lname": "Wongrat",
+            "dob": "1992-11-20",
+            "occupation": "Marketing Manager",
+            "nationality": "Thai"
+        },
+        "passport_no": "YW4385090",
+        "dob_str": "20 November 1992",
+        "flight_no": "TG964",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-10-05T11:16:01.092673",
+        "arrival_date_str": "October 05, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_US9390509.pdf": {
+        "form_id": 72,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "US9390509",
+        "dob_str": "14 July 1988",
+        "flight_no": "FD748",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-15T11:16:01.104958",
+        "arrival_date_str": "September 15, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_QF9492430.pdf": {
+        "form_id": 73,
+        "person": {
+            "title": "Mr.",
+            "fname": "John",
+            "lname": "Smith",
+            "dob": "1982-03-12",
+            "occupation": "Tourist",
+            "nationality": "American"
+        },
+        "passport_no": "QF9492430",
+        "dob_str": "12 March 1982",
+        "flight_no": "FD200",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-10-11T11:16:01.113580",
+        "arrival_date_str": "October 11, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_JN6921633.pdf": {
+        "form_id": 74,
+        "person": {
+            "title": "Ms.",
+            "fname": "Yuki",
+            "lname": "Tanaka",
+            "dob": "1995-01-22",
+            "occupation": "Researcher",
+            "nationality": "Japanese"
+        },
+        "passport_no": "JN6921633",
+        "dob_str": "22 January 1995",
+        "flight_no": "KE521",
+        "origin_city": "Doha",
+        "arrival_date": "2025-10-05T11:16:01.123496",
+        "arrival_date_str": "October 05, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_MC2007418.pdf": {
+        "form_id": 75,
+        "person": {
+            "title": "Mr.",
+            "fname": "Peter",
+            "lname": "Schmidt",
+            "dob": "1975-11-30",
+            "occupation": "Manager",
+            "nationality": "German"
+        },
+        "passport_no": "MC2007418",
+        "dob_str": "30 November 1975",
+        "flight_no": "WE838",
+        "origin_city": "Sydney",
+        "arrival_date": "2025-09-22T11:16:01.132101",
+        "arrival_date_str": "September 22, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_KE6970768.pdf": {
+        "form_id": 76,
+        "person": {
+            "title": "Mr.",
+            "fname": "Peter",
+            "lname": "Schmidt",
+            "dob": "1975-11-30",
+            "occupation": "Manager",
+            "nationality": "German"
+        },
+        "passport_no": "KE6970768",
+        "dob_str": "30 November 1975",
+        "flight_no": "FD735",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-23T11:16:01.139603",
+        "arrival_date_str": "September 23, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_JS4661686.pdf": {
+        "form_id": 77,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "JS4661686",
+        "dob_str": "15 May 1985",
+        "flight_no": "JL233",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-10-05T11:16:01.153758",
+        "arrival_date_str": "October 05, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_XR9355289.pdf": {
+        "form_id": 78,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "XR9355289",
+        "dob_str": "21 May 1979",
+        "flight_no": "KE603",
+        "origin_city": "Doha",
+        "arrival_date": "2025-10-09T11:16:01.166719",
+        "arrival_date_str": "October 09, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_YT4654531.pdf": {
+        "form_id": 79,
+        "person": {
+            "title": "Mr.",
+            "fname": "Anucha",
+            "lname": "Phakdeesettakun",
+            "dob": "1995-07-22",
+            "occupation": "Software Developer",
+            "nationality": "Thai"
+        },
+        "passport_no": "YT4654531",
+        "dob_str": "22 July 1995",
+        "flight_no": "WE828",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-21T11:16:01.179588",
+        "arrival_date_str": "September 21, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_OG2859255.pdf": {
+        "form_id": 80,
+        "person": {
+            "title": "Mr.",
+            "fname": "Chatchai",
+            "lname": "Siripattana",
+            "dob": "1991-08-08",
+            "occupation": "Doctor",
+            "nationality": "Thai"
+        },
+        "passport_no": "OG2859255",
+        "dob_str": "08 August 1991",
+        "flight_no": "FD944",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-10-02T11:16:01.192768",
+        "arrival_date_str": "October 02, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 64286
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_CP9239534.pdf": {
+        "form_id": 81,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "CP9239534",
+        "dob_str": "15 May 1985",
+        "flight_no": "EK202",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-12T11:16:01.207059",
+        "arrival_date_str": "September 12, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": true,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 10873
+            }
+        ],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_UZ9948545.pdf": {
+        "form_id": 82,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "UZ9948545",
+        "dob_str": "21 May 1979",
+        "flight_no": "KE283",
+        "origin_city": "Paris",
+        "arrival_date": "2025-09-14T11:16:01.218261",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_VJ9649468.pdf": {
+        "form_id": 83,
+        "person": {
+            "title": "Ms.",
+            "fname": "Emily",
+            "lname": "Jones",
+            "dob": "1990-10-05",
+            "occupation": "Expat",
+            "nationality": "British"
+        },
+        "passport_no": "VJ9649468",
+        "dob_str": "05 October 1990",
+        "flight_no": "SQ169",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-14T11:16:01.227237",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_BY8862364.pdf": {
+        "form_id": 84,
+        "person": {
+            "title": "Mr.",
+            "fname": "Chatchai",
+            "lname": "Siripattana",
+            "dob": "1991-08-08",
+            "occupation": "Doctor",
+            "nationality": "Thai"
+        },
+        "passport_no": "BY8862364",
+        "dob_str": "08 August 1991",
+        "flight_no": "EK359",
+        "origin_city": "London",
+        "arrival_date": "2025-09-26T11:16:01.240788",
+        "arrival_date_str": "September 26, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_KE1809098.pdf": {
+        "form_id": 85,
+        "person": {
+            "title": "Ms.",
+            "fname": "Thanyarat",
+            "lname": "Lertlum",
+            "dob": "1988-04-18",
+            "occupation": "Graphic Designer",
+            "nationality": "Thai"
+        },
+        "passport_no": "KE1809098",
+        "dob_str": "18 April 1988",
+        "flight_no": "XJ220",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-24T11:16:01.244893",
+        "arrival_date_str": "September 24, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_XE2455363.pdf": {
+        "form_id": 86,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "XE2455363",
+        "dob_str": "21 May 1979",
+        "flight_no": "SQ410",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-14T11:16:01.257598",
+        "arrival_date_str": "September 14, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 23287
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_DF7674923.pdf": {
+        "form_id": 87,
+        "person": {
+            "title": "Ms.",
+            "fname": "Kamonwan",
+            "lname": "Suphantharida",
+            "dob": "2000-01-30",
+            "occupation": "Student",
+            "nationality": "Thai"
+        },
+        "passport_no": "DF7674923",
+        "dob_str": "30 January 2000",
+        "flight_no": "FD617",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-10-02T11:16:01.270761",
+        "arrival_date_str": "October 02, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_NF1031817.pdf": {
+        "form_id": 88,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "NF1031817",
+        "dob_str": "21 May 1979",
+        "flight_no": "JL825",
+        "origin_city": "Paris",
+        "arrival_date": "2025-10-06T11:16:01.279780",
+        "arrival_date_str": "October 06, 2025",
+        "family_members": 3,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 20180
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_MU3364903.pdf": {
+        "form_id": 89,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Isabelle",
+            "lname": "Dubois",
+            "dob": "1980-09-17",
+            "occupation": "Diplomat",
+            "nationality": "French"
+        },
+        "passport_no": "MU3364903",
+        "dob_str": "17 September 1980",
+        "flight_no": "WE766",
+        "origin_city": "Paris",
+        "arrival_date": "2025-09-22T11:16:01.292702",
+        "arrival_date_str": "September 22, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_JC9270237.pdf": {
+        "form_id": 90,
+        "person": {
+            "title": "Mr.",
+            "fname": "Peter",
+            "lname": "Schmidt",
+            "dob": "1975-11-30",
+            "occupation": "Manager",
+            "nationality": "German"
+        },
+        "passport_no": "JC9270237",
+        "dob_str": "30 November 1975",
+        "flight_no": "WE156",
+        "origin_city": "Tokyo",
+        "arrival_date": "2025-09-17T11:16:01.306175",
+        "arrival_date_str": "September 17, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_SJ8337118.pdf": {
+        "form_id": 91,
+        "person": {
+            "title": "Ms.",
+            "fname": "Kamonwan",
+            "lname": "Suphantharida",
+            "dob": "2000-01-30",
+            "occupation": "Student",
+            "nationality": "Thai"
+        },
+        "passport_no": "SJ8337118",
+        "dob_str": "30 January 2000",
+        "flight_no": "EK558",
+        "origin_city": "Doha",
+        "arrival_date": "2025-10-06T11:16:01.309910",
+        "arrival_date_str": "October 06, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_TT2750297.pdf": {
+        "form_id": 92,
+        "person": {
+            "title": "Mr.",
+            "fname": "Boonliang",
+            "lname": "Sae-lim",
+            "dob": "1979-05-21",
+            "occupation": "Tour Guide",
+            "nationality": "Thai"
+        },
+        "passport_no": "TT2750297",
+        "dob_str": "21 May 1979",
+        "flight_no": "QR376",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-23T11:16:01.326373",
+        "arrival_date_str": "September 23, 2025",
+        "family_members": 0,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_TT8574947.pdf": {
+        "form_id": 93,
+        "person": {
+            "title": "Mr.",
+            "fname": "Somsak",
+            "lname": "Charoensuk",
+            "dob": "1985-05-15",
+            "occupation": "Engineer",
+            "nationality": "Thai"
+        },
+        "passport_no": "TT8574947",
+        "dob_str": "15 May 1985",
+        "flight_no": "XJ428",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-17T11:16:01.337229",
+        "arrival_date_str": "September 17, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Classic"
+    },
+    "Customs_Form_EN_HZ3464073.pdf": {
+        "form_id": 94,
+        "person": {
+            "title": "Mr.",
+            "fname": "Anucha",
+            "lname": "Phakdeesettakun",
+            "dob": "1995-07-22",
+            "occupation": "Software Developer",
+            "nationality": "Thai"
+        },
+        "passport_no": "HZ3464073",
+        "dob_str": "22 July 1995",
+        "flight_no": "XJ631",
+        "origin_city": "Seoul",
+        "arrival_date": "2025-09-16T11:16:01.353153",
+        "arrival_date_str": "September 16, 2025",
+        "family_members": 1,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_SP5810092.pdf": {
+        "form_id": 95,
+        "person": {
+            "title": "Ms.",
+            "fname": "Siriporn",
+            "lname": "Ratanakorn",
+            "dob": "1998-02-14",
+            "occupation": "Flight Attendant",
+            "nationality": "Thai"
+        },
+        "passport_no": "SP5810092",
+        "dob_str": "14 February 1998",
+        "flight_no": "WE955",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-26T11:16:01.354923",
+        "arrival_date_str": "September 26, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_ZP3387889.pdf": {
+        "form_id": 96,
+        "person": {
+            "title": "Ms.",
+            "fname": "Siriporn",
+            "lname": "Ratanakorn",
+            "dob": "1998-02-14",
+            "occupation": "Flight Attendant",
+            "nationality": "Thai"
+        },
+        "passport_no": "ZP3387889",
+        "dob_str": "14 February 1998",
+        "flight_no": "JL481",
+        "origin_city": "Paris",
+        "arrival_date": "2025-10-11T11:16:01.369247",
+        "arrival_date_str": "October 11, 2025",
+        "family_members": 1,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Rolex Watch",
+                "quantity": 1,
+                "value": 185827
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 23845
+            }
+        ],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_LY7475563.pdf": {
+        "form_id": 97,
+        "person": {
+            "title": "Ms.",
+            "fname": "Thanyarat",
+            "lname": "Lertlum",
+            "dob": "1988-04-18",
+            "occupation": "Graphic Designer",
+            "nationality": "Thai"
+        },
+        "passport_no": "LY7475563",
+        "dob_str": "18 April 1988",
+        "flight_no": "XJ935",
+        "origin_city": "Frankfurt",
+        "arrival_date": "2025-09-18T11:16:01.377167",
+        "arrival_date_str": "September 18, 2025",
+        "family_members": 2,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_TE1462244.pdf": {
+        "form_id": 98,
+        "person": {
+            "title": "Ms.",
+            "fname": "Yuki",
+            "lname": "Tanaka",
+            "dob": "1995-01-22",
+            "occupation": "Researcher",
+            "nationality": "Japanese"
+        },
+        "passport_no": "TE1462244",
+        "dob_str": "22 January 1995",
+        "flight_no": "SQ231",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-17T11:16:01.385263",
+        "arrival_date_str": "September 17, 2025",
+        "family_members": 3,
+        "declare_goods": false,
+        "declare_currency": false,
+        "declared_items": [],
+        "template_used": "Compact"
+    },
+    "Customs_Form_EN_YA5793063.pdf": {
+        "form_id": 99,
+        "person": {
+            "title": "Mr.",
+            "fname": "Michael",
+            "lname": "Chen",
+            "dob": "1988-07-14",
+            "occupation": "Investor",
+            "nationality": "Singaporean"
+        },
+        "passport_no": "YA5793063",
+        "dob_str": "14 July 1988",
+        "flight_no": "SQ357",
+        "origin_city": "Dubai",
+        "arrival_date": "2025-09-18T11:16:01.391824",
+        "arrival_date_str": "September 18, 2025",
+        "family_members": 2,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "iPhone 15 Pro Max",
+                "quantity": 1,
+                "value": 60737
+            },
+            {
+                "item": "Wine (6 bottles)",
+                "quantity": 1,
+                "value": 18551
+            }
+        ],
+        "template_used": "Modern"
+    },
+    "Customs_Form_EN_ZJ9901934.pdf": {
+        "form_id": 100,
+        "person": {
+            "title": "Mrs.",
+            "fname": "Pornthip",
+            "lname": "Kittisiriprasert",
+            "dob": "1980-09-03",
+            "occupation": "Accountant",
+            "nationality": "Thai"
+        },
+        "passport_no": "ZJ9901934",
+        "dob_str": "03 September 1980",
+        "flight_no": "JL516",
+        "origin_city": "Doha",
+        "arrival_date": "2025-09-28T11:16:01.408351",
+        "arrival_date_str": "September 28, 2025",
+        "family_members": 0,
+        "declare_goods": true,
+        "declare_currency": false,
+        "declared_items": [
+            {
+                "item": "Cigars (250g box)",
+                "quantity": 1,
+                "value": 16222
+            }
+        ],
+        "template_used": "Modern"
+    }
+}
